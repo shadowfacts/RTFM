@@ -1,0 +1,19 @@
+# Site settings
+title: RTFM
+email: me@shadowfacts.net
+description: Documentation for Shadowfacts' projects.
+baseurl: ""
+url: "https://rtfm.shadowfacts.net"
+enforce_ssl: "rtfm.shadowfacts.net"
+twitter_username: ShadowfactsDev
+github_username:  shadowfacts
+
+# Build settings
+markdown: kramdown
+
+permalink: /:categories/:title/
+
+collections:
+  projects:
+    permalink: /:path/
+    output: true

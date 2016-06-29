@@ -1,0 +1,20 @@
+.recipe-title {
+	margin-bottom: 0px;
+}
+
+.project-list {
+	list-style: none;
+	margin-left: 0px;
+
+	.page-list {
+		li {
+			display: inline;
+			margin-right: 20px;
+		}
+	}
+}
+
+pre, code {
+	font-family: Hack, monospace;
+	border: none;
+}
