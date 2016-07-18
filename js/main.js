@@ -6,4 +6,5 @@ MC.register("YeOldeTanks", "/sheets/YOT.png", "/sheets/YOT.json");
 MC.register("Funnels", "/sheets/Funnels.png", "/sheets/Funnels.json");
 MC.register("InductionCharger", "/sheets/IC.png", "/sheets/IC.json");
 MC.register("SleepingBag", "/sheets/SleepingBag.png", "/sheets/SleepingBag.json");
+MC.register("ExtraRails", "/sheets/ExtraRails.png", "/sheets/ExtraRails.json");
 MC.init();
