@@ -1,0 +1,16 @@
+{
+  "endergizer": {
+    "voltageMeter": {
+      "0": [
+        96,
+        32
+      ]
+    },
+    "enderBattery": {
+      "0": [
+        64,
+        64
+      ]
+    }
+  }
+}
