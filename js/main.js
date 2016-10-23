@@ -9,4 +9,5 @@ MC.register("SleepingBag", "/sheets/SleepingBag.png", "/sheets/SleepingBag.json"
 MC.register("ExtraRails", "/sheets/ExtraRails.png", "/sheets/ExtraRails.json");
 MC.register("endergizer", "/sheets/endergizer.png", "/sheets/endergizer.json");
 MC.register("underwaterutilities", "/sheets/UnderwaterUtilities.png", "/sheets/UnderwaterUtilities.json");
+MC.register("clipboard", "/sheets/clipboard.png", "/sheets/clipboard.json");
 MC.init();
