@@ -11,4 +11,5 @@ MC.register("endergizer", "/sheets/endergizer.png", "/sheets/endergizer.json");
 MC.register("underwaterutilities", "/sheets/UnderwaterUtilities.png", "/sheets/UnderwaterUtilities.json");
 MC.register("clipboard", "/sheets/clipboard.png", "/sheets/clipboard.json");
 MC.register("glove", "/sheets/glove.png", "/sheets/glove.json");
+MC.register("redstoneremote", "/sheets/redstoneremote.png", "/sheets/redstoneremote.json");
 MC.init();
