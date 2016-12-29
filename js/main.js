@@ -12,4 +12,5 @@ MC.register("underwaterutilities", "/sheets/UnderwaterUtilities.png", "/sheets/U
 MC.register("clipboard", "/sheets/clipboard.png", "/sheets/clipboard.json");
 MC.register("glove", "/sheets/glove.png", "/sheets/glove.json");
 MC.register("redstoneremote", "/sheets/redstoneremote.png", "/sheets/redstoneremote.json");
+MC.register("waypointcompass", "/sheets/waypointcompass.png", "/sheets/waypointcompass.json");
 MC.init();
